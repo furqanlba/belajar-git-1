@@ -3,3 +3,5 @@ Selasa : SIM (Sistem Informasi Manajemen)
 
 Kamis : GNS 3
 Jumat : Tringger DB
+Sabtu : Furqan Tugas kelompok UI
+Minggu : Furqan Tugas Kelompok Basis Data Lanjut
